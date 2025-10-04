@@ -3,8 +3,7 @@
 To control the position of motor having the following specifications using MATLAB.<br>
 (J)     moment of inertia of the rotor =    3.2284E-6 kg.m^2<br>
 (b)     motor viscous friction constant =    3.5077E-6 N.m.s<br>
-(Kb)    electromotive force constant   =    0.0274 V/rad/sec<br>
-(Kt)    motor torque constant   =           0.0274 N.m/Amp<br>
+(Ktf)    motor torque constant   =           0.0274 N.m/Amp<br>
 (R)     electric resistance  =              4 Ohm<br>
 (L)     electric inductance  =              2.75E-6H<br>
 ## Apparatus Required:
@@ -20,7 +19,7 @@ Let              Rf = Field resistance <br>
                    if = Field current <br>
                    Vf= Field voltage <br>
                    T = Torque developed by motor  <br>
-                  Kt = Torque constant <br>
+                  Ktf = Torque constant <br>
                    J = Moment of inertia of rotor and load <br>
 The equivalent circuit of field is shown in the below figure. <br>
                   <img width="322" height="303" alt="image" src="https://github.com/user-attachments/assets/b3ee1388-b59f-4161-ba73-161de8752ee5" /> <br>
